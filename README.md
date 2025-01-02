@@ -28,7 +28,6 @@ This project demonstrates how to build an automated Security Operations Center (
 - **The Hive**: Open-source incident response platform for managing alerts and incidents.
 - **VirusTotal**: Online service for checking file hash reputations.
 - **Sysmon**: System monitor tool for capturing detailed event telemetry.
-- **Splunk**: SIEM tool for aggregating and analyzing security event logs.
 - **Mimikatz**: Tool for simulating credential theft and gathering system logs to test security defenses.
 
 ## **Steps**
